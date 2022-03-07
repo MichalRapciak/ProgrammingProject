@@ -23,7 +23,7 @@ void Player::loadImage()
 {
 	if (!playerTexture.loadFromFile("ASSETS/IMAGES/car.png"))
 	{
-		std::cout << "error with player image file";
+		std::cout << "error with player car file";
 	}
 
 	playerSprite.setTexture(playerTexture);
@@ -70,8 +70,10 @@ void Player::movement()
 	if (sf::Keyboard::isKeyPressed(sf::Keyboard::W) && !sf::Keyboard::isKeyPressed(sf::Keyboard::A))
 	{
 		velocity.y -= 0.10;
+		/*
 		float headingRadians = std::atan2(velocity.y, velocity.x);
 		float headingDegree = 180.0f * headingRadians / static_cast<float>(3.14159265);
+		*/
 	}
 	if (sf::Keyboard::isKeyPressed(sf::Keyboard::S))
 	{
@@ -93,7 +95,7 @@ void Player::movement()
 	}
 	position += velocity;
 	std::cout << "Y" << velocity.y << std::endl;
-	std::cout << "DG" << direction << std::endl;
+	std::cout << "DEGREES" << direction << std::endl;
 	playerSprite.setPosition(position);
 	if (!sf::Keyboard::isKeyPressed(sf::Keyboard::W) && (velocity.y < 0))
 	{
@@ -117,12 +119,6 @@ sf::Sprite Player::returnSprite()
 {
 	return playerSprite;
 }
-
-void Player::setPosition()
-{
-	playerSprite.setPosition(200, 40);
-}
-
 
 void Player::setPosition(sf::Vector2f position)
 {

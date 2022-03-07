@@ -12,7 +12,7 @@ class Player
 	sf::Texture playerTexture;
 	sf::Sprite playerSprite;
 	float direction;
-	int speed;
+	//int speed;
 	sf::Vector2f velocity;
 	sf::Vector2f position;
 

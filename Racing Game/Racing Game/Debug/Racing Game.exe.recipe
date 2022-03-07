@@ -2,15 +2,15 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\micha\Desktop\proj\Bad Ass Game\Racing Game\Debug\Racing Game.exe</FullPath>
+      <FullPath>G:\Programming\Racing Game\ProgrammingProject\Racing Game\Debug\Racing Game.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles>
     <ContentFile>
-      <FullPath>C:\Users\micha\Desktop\proj\Bad Ass Game\Racing Game\Racing Game\ASSETS\FONTS\ariblk.ttf</FullPath>
+      <FullPath>G:\Programming\Racing Game\ProgrammingProject\Racing Game\Racing Game\ASSETS\FONTS\ariblk.ttf</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\micha\Desktop\proj\Bad Ass Game\Racing Game\Racing Game\ASSETS\IMAGES\SFML-LOGO.png</FullPath>
+      <FullPath>G:\Programming\Racing Game\ProgrammingProject\Racing Game\Racing Game\ASSETS\IMAGES\SFML-LOGO.png</FullPath>
     </ContentFile>
   </ContentFiles>
   <SatelliteDlls />
