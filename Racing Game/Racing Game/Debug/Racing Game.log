@@ -1,0 +1,53 @@
+﻿  Player.cpp
+C:\Users\micha\Desktop\proj\Bad Ass Game\Racing Game\Racing Game\Player.cpp(31,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\micha\Desktop\proj\Bad Ass Game\Racing Game\Racing Game\Player.cpp(73,21): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\micha\Desktop\proj\Bad Ass Game\Racing Game\Racing Game\Player.cpp(77,21): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\micha\Desktop\proj\Bad Ass Game\Racing Game\Racing Game\Player.cpp(82,21): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\micha\Desktop\proj\Bad Ass Game\Racing Game\Racing Game\Player.cpp(83,21): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\micha\Desktop\proj\Bad Ass Game\Racing Game\Racing Game\Player.cpp(89,21): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\micha\Desktop\proj\Bad Ass Game\Racing Game\Racing Game\Player.cpp(90,21): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\micha\Desktop\proj\Bad Ass Game\Racing Game\Racing Game\Player.cpp(99,21): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\micha\Desktop\proj\Bad Ass Game\Racing Game\Racing Game\Player.cpp(103,21): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\micha\Desktop\proj\Bad Ass Game\Racing Game\Racing Game\Player.cpp(107,21): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\micha\Desktop\proj\Bad Ass Game\Racing Game\Racing Game\Player.cpp(111,21): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  Racing Game.vcxproj -> C:\Users\micha\Desktop\proj\Bad Ass Game\Racing Game\Debug\Racing Game.exe
